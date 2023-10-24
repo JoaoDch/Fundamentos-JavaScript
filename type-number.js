@@ -20,3 +20,4 @@ console.log(novaOperacao)
 
 const alura = "Alura";
 console.log(alura * num1)
+
